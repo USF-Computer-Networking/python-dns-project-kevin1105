@@ -5,3 +5,4 @@ Name : Kevin Kim
 - Finds the hostname of an IP address (REVERSE DNS)
 - usage: python ./project1.py -a google.com
 - usage: python ./project1.py -i 198.27.250.181 or 8.8.4.4
+- usage: python ./project1.py -m google.com
