@@ -1,4 +1,3 @@
-# python-dns-project-kevin1105
 
 # DNS SERVER
 Name : Kevin Kim
